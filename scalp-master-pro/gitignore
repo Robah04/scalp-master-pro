@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+users.json
+trading_bot.log
+scalp_master.log
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
